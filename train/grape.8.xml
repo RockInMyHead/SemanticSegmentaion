@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>8.png</filename>
+	<path>C:\CheckTree\learn_tensorflow\Data\Новая папка\images\8.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1772</width>
+		<height>1772</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grape</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>61</ymin>
+			<xmax>1772</xmax>
+			<ymax>1748</ymax>
+		</bndbox>
+	</object>
+</annotation>
